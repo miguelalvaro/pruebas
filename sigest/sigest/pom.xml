@@ -22,4 +22,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <modules>
+    <module>Iteracion1</module>
+    <module>Iteracion2</module>
+  </modules>
 </project>
