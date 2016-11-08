@@ -3,6 +3,7 @@ public class Conductor extends Persona {
 	
 	private int puntos;
 	
+	
 	public Conductor() {
 		this.puntos=12;
 	}
